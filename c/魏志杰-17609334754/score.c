@@ -1,27 +1,31 @@
 #define _CRT_SECURE_NO_WARNINGS
-#include<stdio.h>
-#include<stdlib.h>
+#include "stdio.h"
+#include "stdlib.h" 
 #define N 5
 struct student {
+	//定义相关的参数 
 	int num;
 	char name[1024];
 	int score[3];
 };
 typedef struct student stu;
-void input(stu* p) {//输入
+void input(stu* p) {
+	//循环 
 	for (int i = 0; i < N; ++i) {
+		//循环输入学生的相关信息 
 		printf("请输入第%d个学生的信息\n", i + 1);
-		printf("请输入num\n");
+		printf("请输入学号\n");
 		scanf("%d", &(p + i)->num);
 		printf("请输入姓名\n");
 		scanf("%s", &(p + i)->name);
+		//相关的课程 
 		for (int j = 0; j < 3; ++j) {
-			printf("请输入score%d\n", j + 1);
+			printf("请输入成绩%d\n", j + 1);
 			scanf("%d", &(p + i)->score[j]);
 		}
 	}
 }
-void print(stu* p) {//输出
+void print(stu* p) {//相关的表达式子 
 	printf("%d\t", p->num);
 	printf("%s\t", p->name);
 	for (int j = 0; j < 3; ++j) {
@@ -60,9 +64,9 @@ int main() {
 		print(p + i);
 		printf("%f\n", aver(p + i));
 	}
-	printf("最高分的学生数据如下\n学号\t姓名\t成绩1\t成绩2\t成绩3\t平均\n");
-	int n = excellect(p);
-	print(p + n);
-	printf("%f\n", aver(p + n));
-	system("pause");
+	// printf("最高分的学生数据如下\n学号\t姓名\t成绩1\t成绩2\t成绩3\t平均\n");
+	// int n = excellect(p);
+	// print(p + n);
+	// printf("%f\n", aver(p + n));
+	// system("pause");
 }
