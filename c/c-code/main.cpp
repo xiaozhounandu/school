@@ -78,6 +78,11 @@ void DispList(SqList L)
    printf("\n");
 }
 //交换最大值与最小值 
+void swap(ElemType &x,ElemType &y)	//交换x和y
+{  ElemType tmp=x;
+   x=y;  y=tmp;
+}
+
 void Swapmaxmin(SqList &L)	//交换L中最大值元素与最小值元素
 {  int i,maxi,mini;
    maxi=mini=0;
@@ -98,7 +103,7 @@ int Deletek(SqList &L,int i,int k){
    L.length-=k;			//L的长度减k
    return 1;
 }
-//线性表几奇前偶后 
+//线性表奇前偶后 
 void Move(SqList &L)
 {  int i=0,j=L.length-1;
    while (i<j)
@@ -108,6 +113,7 @@ void Move(SqList &L)
          swap(L.data[i],L.data[j]);	//交换这两元素
    }
 }
+
 
 
 
