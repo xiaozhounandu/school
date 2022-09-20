@@ -8,14 +8,17 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Second" />
         <module name="test" />
+        <module name="sixth1" />
+        <module name="Third" />
         <module name="Fourth" />
         <module name="Fifth" />
-        <module name="Third" />
         <module name="First_" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="First" target="1.8" />
+      <module name="sixth" target="1.8" />
+      <module name="Sixth" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
