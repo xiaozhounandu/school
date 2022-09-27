@@ -13,13 +13,13 @@ document.form1.txt6.value = n1 + n2 + n3 + n4 + n5;
 }
 </script >
 <form name ="form1">
-<input name ="txt1" type ="text"><br>
-<input name = "txt2" type = "text"> <br>
-    <input name = "txt3" type = "text"> <br>
-    <input name = "txt4" type = "text"> <br>
-    <input name = "txt5" type = "text"> <br>
+    书本1：<input name = "txt1" type = "text">  <br>
+    书本2：<input name = "txt2" type = "text"> <br>
+    书本3：<input name = "txt3" type = "text"> <br>
+    书本4：<input name = "txt4" type = "text"> <br>
+    书本5：<input name = "txt5" type = "text"> <br>
 <input type = "button" onclick="add()" value = "求和"><br>
-<input name = "txt6" type = "text"><br>
+结果<input name = "txt6" type = "text"><br>
 </form>
 </body>
 </html>

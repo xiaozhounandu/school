@@ -1,45 +1,45 @@
-<%--<%@ page contentType="text/html;charset=UTF-8" language="java" %>--%>
-<%--<html>--%>
-<%--<head>--%>
-<%--    <meta charset="UTF-8">--%>
-<%--</head>--%>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<html>
+<head>
+    <meta charset="UTF-8">
+</head>
 
-<%--<body>--%>
-<%--<p>hello world</p>--%>
-<%--<h1>你好</h1>--%>
+<body>
+<p>hello world</p>
+<h1>你好</h1>
 
-<%--<form action="/action_page.php">--%>
-<%--    <label for="fname">First name:</label><br>--%>
-<%--    <input type="text" id="fname" name="fname" value="Bill"><br>--%>
-<%--    <label for="lname">Last name:</label><br>--%>
-<%--    <input type="text" id="lname" name="lname" value="Gates"><br><br>--%>
-<%--    <input type="submit" value="Submit">--%>
-<%--</form>--%>
-
-
-<%--<ul>--%>
-<%--    <li>Coffee</li>--%>
-<%--    <li>Milk</li>--%>
-<%--</ul>--%>
+<form action="/action_page.php">
+    <label for="fname">First name:</label><br>
+    <input type="text" id="fname" name="fname" value="Bill"><br>
+    <label for="lname">Last name:</label><br>
+    <input type="text" id="lname" name="lname" value="Gates"><br><br>
+    <input type="submit" value="Submit">
+</form>
 
 
-<%--<table border="1">--%>
-<%--    <tr>--%>
-<%--        <th>Heading</th>--%>
-<%--        <th>Another Heading</th>--%>
-<%--    </tr>--%>
-<%--    <tr>--%>
-<%--        <td>row 1, cell 1</td>--%>
-<%--        <td>row 1, cell 2</td>--%>
-<%--    </tr>--%>
-<%--    <tr>--%>
-<%--        <td>row 2, cell 1</td>--%>
-<%--        <td>row 2, cell 2</td>--%>
-<%--    </tr>--%>
-<%--</table>--%>
+<ul>
+    <li>Coffee</li>
+    <li>Milk</li>
+</ul>
 
-<%--</body>--%>
-<%--</html>--%>
+
+<table border="1">
+    <tr>
+        <th>Heading</th>
+        <th>Another Heading</th>
+    </tr>
+    <tr>
+        <td>row 1, cell 1</td>
+        <td>row 1, cell 2</td>
+    </tr>
+    <tr>
+        <td>row 2, cell 1</td>
+        <td>row 2, cell 2</td>
+    </tr>
+</table>
+
+</body>
+</html>
 
 
 

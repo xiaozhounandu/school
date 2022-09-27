@@ -251,22 +251,18 @@ int main(){
 				break;
 			}
 			case 7:{
-//				printf("请输入要插入线性表的元素值：\n");
-//				scanf("%d",elemValue);
-//				printf("请输入要插入线性表的逻辑序号：\n");
-//				scanf( "%d", &elemno);
-//				if(InsElem(L, elemValue, elemno))
-//				printf("线性表插入一个数据成功！\n");
-//				else printf("插入元素位置错误！\n");
-//				break;
-			
-			
-			
-				printf("请输入要插入的元素及下标（下标从1开始） exp:[1 0]");
-				scanf("%d %d", &elemj, &elemno);
-				printf("是否成功 : [%d]", InsElem(L, elemj, elemno));
-				DispList(L);
+			printf("请输入想要插入的元素及其下标（下标从1 开始）");
+			scanf("%d %d",&elemj,&elemno);
+				printf("线性表插入一个数据成功！\n",InsElem(L, elemj, elemno));	
 				break;
+			
+			
+//			
+//				printf("请输入要插入的元素及下标（下标从1开始） exp:[1 0]");
+//				scanf("%d %d", &elemj, &elemno);
+//				printf("是否成功 : [%d]", InsElem(L, elemj, elemno));
+//				DispList(L);
+//				break;
 			}
 			case 8:{
 				DispList(L);
