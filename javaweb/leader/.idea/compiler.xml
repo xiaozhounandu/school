@@ -17,9 +17,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="eight" target="1.8" />
       <module name="First" target="1.8" />
       <module name="sixth" target="1.8" />
       <module name="Sixth" target="1.8" />
+      <module name="untitled" target="1.8" />
+      <module name="xxx" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -25,11 +25,7 @@
                 <version>2.5</version>
             </dependency>
             <!--JSP依赖-->
-            <dependency>
-                <groupId>javax.servlet.jsp</groupId>
-                <artifactId>javax.servlet.jsp-api</artifactId>
-                <version>2.3.3</version>
-            </dependency>
+
             <!-- JSTL表达式的依赖 -->
             <dependency>
                 <groupId>javax.servlet.jsp.jstl</groupId>
