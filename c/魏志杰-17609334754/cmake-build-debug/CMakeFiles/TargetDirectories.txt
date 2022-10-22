@@ -1,0 +1,3 @@
+/Users/weizhijie/Desktop/Java-code/school/c/魏志杰-17609334754/cmake-build-debug/CMakeFiles/_17609334754.dir
+/Users/weizhijie/Desktop/Java-code/school/c/魏志杰-17609334754/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/weizhijie/Desktop/Java-code/school/c/魏志杰-17609334754/cmake-build-debug/CMakeFiles/rebuild_cache.dir

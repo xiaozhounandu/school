@@ -1,6 +1,9 @@
 package com.util;
 
 public class Circle {
+
+
+    public static final double  PI =3.14;
         private double r;
         /*
 
@@ -30,7 +33,7 @@ public class Circle {
         }
 //计算长度
         public double getPerimeter() {
-            return 2*3.14*r;
+            return 2*3.14*PI;
 
         }
 //面积计算
@@ -38,7 +41,7 @@ public class Circle {
 
         {
 
-            return 3.14*r*r;
+            return PI*r*r;
 
         }
 

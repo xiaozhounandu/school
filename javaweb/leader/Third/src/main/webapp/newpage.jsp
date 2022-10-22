@@ -9,6 +9,7 @@
 <html>
 <head>
   <%
+
     String account =request.getParameter("account1");
     String pas =request.getParameter("password2");
     out.println("账号是："+"account");
