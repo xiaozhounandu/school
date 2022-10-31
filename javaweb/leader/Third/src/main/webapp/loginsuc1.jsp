@@ -14,7 +14,6 @@
 欢迎登陆本系统
 <form action="newpage.jsp">
   输入账号：<input name="account1" type="text"><br>
-  输入密码： <input name="password2" type="password"><br>
   <input type="submit" value="login">
 
 </form>

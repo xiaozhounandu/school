@@ -113,7 +113,15 @@ void Move(SqList &L)
          swap(L.data[i],L.data[j]);	//交换这两元素
    }
 }
-
+int Desc(SqList L){
+    int i =0;
+    while (i<L.length-1){
+        if(L.data[i] >L.data[i+1]){
+            return 0;
+        }
+    }
+         return 1;
+}
 
 
 
@@ -208,6 +216,9 @@ do{
 				printf("线性表奇前偶后重新排列成功！\n");
 				break;
 			}
+            case 12:{
+                Desc(L);
+            }
 			case 0:{
 				printf("程序执行结束了！");
 				exit(0);

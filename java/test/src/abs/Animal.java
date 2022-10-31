@@ -1,21 +1,15 @@
 package abs;
 
-public  abstract  class Animal {
-     private  String name;
-     private  int age;
+/**
+ * @ClassName Animal
+ * @Description
+ * @Author xiaozhounandu
+ * @Date 2022-10-28-15-37
+ */
 
-    @Override
-    public String toString() {
-        return "Animal{" +
-                "name='" + name + '\'' +
-                ", age=" + age +
-                '}';
-    }
 
-    public Animal(String name, int age) {
-        this.name = name;
-        this.age = age;
-    }
+public  class Animal {
+   private String name;
 
     public String getName() {
         return name;
@@ -25,17 +19,7 @@ public  abstract  class Animal {
         this.name = name;
     }
 
-    public int getAge() {
-        return age;
+    public void shut() {
+        System.out.println(name+"叫了一下");
     }
-
-    public void setAge(int age) {
-        this.age = age;
-    }
-
-    public Animal() {
-    }
-
-    public abstract void shut();
-
-    }
+}

@@ -1,5 +1,8 @@
 package com.xiaozhounandu.www;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class test {
         public static void main(String[] args) {
 
@@ -19,6 +22,7 @@ public class test {
             System.out.println("最高分：" + c.getMax());
             System.out.println("最低分：" + c.getMin());
             System.out.println("成绩分布：" + c.gradeDistribution());
+          Map<Object, Object> map = new HashMap<>();
         }
     }
 

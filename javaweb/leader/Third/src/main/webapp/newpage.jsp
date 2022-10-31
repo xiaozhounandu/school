@@ -9,12 +9,10 @@
 <html>
 <head>
   <%
-
-    String account =request.getParameter("account1");
-    String pas =request.getParameter("password2");
-    out.println("账号是："+"account");
-    out.println("密码是："+"pas");
-
+    String account =request.getParameter("account");
+    String account1 =request.getParameter("account1");
+    out.println("用户是："+"account");
+    out.println("账号是："+"account1");
   %>
 </head>
 <body>
