@@ -16,7 +16,7 @@ public class Main {
         int c = sc.nextInt();
         double s = (a+b+c)/2.0;
         System.out.format("%10.3f", Math.sqrt(s * (s - a) * (s - b) * (s - c)));
-        
+
     }
 }
 

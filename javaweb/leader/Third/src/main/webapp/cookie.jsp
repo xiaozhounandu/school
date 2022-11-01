@@ -19,7 +19,6 @@ int number=Integer.parseInt(str);
 
 该数字的平方和为<%= number * number%><hr>
 
-
 <%
   Cookie cookie =new Cookie("number",str);
   cookie.setMaxAge(500);
