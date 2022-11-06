@@ -1,4 +1,4 @@
-package demo.circle;
+package com.circle;
 
 public class Point {
 

@@ -8,6 +8,8 @@
     <param-name>url</param-name>
     <param-value>jdbc:mysql://localhost:3306/mybatis</param-value>
   </context-param>
+
+
   <servlet>
     <servlet-name>hello</servlet-name>
     <servlet-class>com.jie.HelloServlet</servlet-class>
@@ -16,6 +18,10 @@
     <servlet-name>hello</servlet-name>
     <url-pattern>/hello</url-pattern>
   </servlet-mapping>
+
+
+
+
   <servlet>
     <servlet-name>getname</servlet-name>
     <servlet-class>com.jie.servlet.GetContext</servlet-class>
