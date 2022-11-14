@@ -1,5 +1,7 @@
 package com.work;
 
+import java.util.Scanner;
+
 public class YangHui {
 
     static void test() {
@@ -28,7 +30,10 @@ public class YangHui {
 
     //数组——杨辉三角_直角三角型
     public static void main(String[] args) {
-        int[][] arr = new int[10][10];    //定义二维数组大小
+        Scanner scanner =new Scanner(System.in);
+        int x=scanner.nextInt();
+        //用x控制长度
+        int[][] arr = new int[x][x];    //定义二维数组大小
         for (int i = 0; i < arr.length; i++) {
             for (int j = 0; j <= i; j++) {   //数组下标从0开始，纵标恒小于等于横标
                 if (i == j || j == 0) {   //令i与j相等的位置和第一列的值为1
@@ -41,7 +46,7 @@ public class YangHui {
             }
             System.out.println();
         }
-              test();
+              //test();
 
     }
 }

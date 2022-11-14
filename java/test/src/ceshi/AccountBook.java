@@ -40,7 +40,7 @@ public class AccountBook {
 
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		AccountBook Zhangsan = new AccountBook(30,10);
 		System.out.print("Zhangsan"+", "+"income: "+Zhangsan.getIncome()+"*, "+"outcome: "+Zhangsan.getOutcome()+"*, "+"balance: "+Zhangsan.compute()+"*.");
 	}

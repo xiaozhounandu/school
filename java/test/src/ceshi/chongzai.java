@@ -32,11 +32,11 @@ public class chongzai {
     }
  
     public static int f(int x, int y) {
-        return x * x + y * y;
+        return f(x)+ f(y);
     }
  
     public static int f(int x, int y, int z) {
-        return x * x + y * y + z * z;
+        return f(x,y)+ f(z);
     }
 }
 
