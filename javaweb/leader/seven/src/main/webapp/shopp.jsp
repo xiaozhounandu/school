@@ -22,33 +22,30 @@
     books.add("茶馆");
     session.setAttribute("books",books);
 %>
-<a href="books.jsp">查看购物车</a>
-
-
-
+<a href="books.jsp">查看历史书籍</a>
+<%--<a href="computershow.jsp">查看计算机图书</a>--%>
 <br>
 
-<%
-    String id = session.getId();
-    out.println("当前sessionId为"+id);
+<%--<%--%>
+<%--    String id = session.getId();--%>
+<%--    out.println("当前sessionId为"+id);--%>
 
-%>
-
-
-
-<%
-
-Integer count=(Integer) application.getAttribute("count");
-if(count==null){
-    count=new Integer(0);
-}
-count++;
-application.setAttribute("count",count);
+<%--%>--%>
 
 
-%>
-<br>
-您是第<%=count%> 个访问者
+<%--<%--%>
+
+<%--    Integer count = (Integer) application.getAttribute("count");--%>
+<%--    if (count == null) {--%>
+<%--        count = new Integer(0);--%>
+<%--    }--%>
+<%--    count++;--%>
+<%--    application.setAttribute("count", count);--%>
+
+
+<%--%>--%>
+<%--<br>--%>
+<%--您是第<%=count%> 个访问者--%>
 
 </body>
 </html>

@@ -9,17 +9,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-    <script type="text/javascript">
-        function sayhello() {
-            for (var i = 0; i <= 100; i++) {
-                document.write("欢迎 ");
-            }
-        }
-    </script>
-</head>
-<body onload="sayhello()">
+<body>
+
+<%
+        out.print("账号密码有问题");
+
+%>
+
 
 </body>
 </html>

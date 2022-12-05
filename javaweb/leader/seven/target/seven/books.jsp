@@ -19,7 +19,7 @@
   }
 %>
 <br>
-<a href="addbooks.jsp">添加购物车</a>
+<a href="addbooks.jsp">删除购物车</a>
 <br>
 <%
     String id = session.getId();

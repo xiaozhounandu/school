@@ -77,7 +77,7 @@ public class login {
             x.setName(inputname);
             x.setPassword(inputpwd);
             x.setCreateTime(new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date()));
-            //	xs.add(x);
+            //	xs.utild.add(x);
             //	System.out.println(xs.toString());
 
             showMainMenu();

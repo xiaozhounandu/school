@@ -1,3 +1,4 @@
+package com.test;
 
 public class StuScore {
     public static void main(String[] args) {

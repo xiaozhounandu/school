@@ -1,7 +1,7 @@
 package map;
 
+import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.Map;
 
 /**
@@ -20,6 +20,9 @@ public class MapTest {
         map.put(3,"jie");
         map.put(4,"jie");
         map.put(5,"jie");
+
+
+
         for (Map.Entry<Integer, Object> entry : map.entrySet()) {
             System.out.println(entry.getKey());
             System.out.println(entry.getValue());
@@ -35,6 +38,22 @@ public class MapTest {
 //                  entry.getKey();
 //                 entry.getValue();
 //              }
+
+        ArrayList<Object> objects = new ArrayList<>();
+
+        objects.add(0,"");
+        objects.add(0,"");
+        objects.add(0,"");
+        objects.add(0,"");
+        objects.add(0,"");
+        objects.add(0,"");
+        objects.add(0,"");
+        objects.add(0,"");
+
+        for (Object x:objects){
+            System.out.println(x);
+        }
+
 
 
 

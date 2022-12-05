@@ -28,14 +28,14 @@
   String book=request.getParameter("book");
   if(book!=null){
     book=new String(book.getBytes("ISO-8859-1"));
-    books.add(book);
+    books.remove(book);
+
   }
 %>
 购物车中的内容是:<br>
 <%
   for (int i = 0; i < books.size(); i++) {
     out.println(books.get(i)+"<br>");
-
   }
 %>
 

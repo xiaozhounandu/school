@@ -15,14 +15,14 @@ public class demo {
 
     public static void main(String[] args) {
         Random r = new Random();
-        int[] test = new int[20];
+        Integer[] test = new Integer[20];
         for (int i = 0; i < 20; i++) {
             test[i] = r.nextInt(60);
         }
 
         for (int i = 0; i < 10; i++) {
             //要求提供
-            swap(new int[][]{test}, i,test.length-1-i);
+            swap(test, i,test.length-1-i);
         }
     }
 }

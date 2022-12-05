@@ -28,7 +28,7 @@ public class HelloServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         PrintWriter writer = resp.getWriter();
         writer.println("this is java");
-        Random random=new Random();
+
 
 
     }

@@ -1,3 +1,5 @@
+package com.test;
+
 public class ScoreDemo {
 
     static void test() {
