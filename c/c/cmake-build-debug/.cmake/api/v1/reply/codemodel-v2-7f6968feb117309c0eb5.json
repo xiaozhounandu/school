@@ -1,0 +1,276 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "c",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "L::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-L-Debug-82986087b17194881996.json",
+					"name" : "L",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Linkqueue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Linkqueue-Debug-322ce54b18d4d536c788.json",
+					"name" : "Linkqueue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Queue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Queue-Debug-9f41d731af19e7af4d3f.json",
+					"name" : "Queue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SqString::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SqString-Debug-1b4c8b8fab9dd2c4906e.json",
+					"name" : "SqString",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "String::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-String-Debug-0b3596544d832c1a68bf.json",
+					"name" : "String",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-c-Debug-bca644174c0355874ad8.json",
+					"name" : "c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "coll::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-coll-Debug-729daaf6c3aad8e3ee46.json",
+					"name" : "coll",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "data::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-data-Debug-21067e979e4af4b094e9.json",
+					"name" : "data",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "e::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-e-Debug-c897684ba29272c6b14a.json",
+					"name" : "e",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "floyd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-floyd-Debug-09ec4f0e0d191ab9e54e.json",
+					"name" : "floyd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mainx::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mainx-Debug-c6f6872af3dccdb3d878.json",
+					"name" : "mainx",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mainx1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mainx1-Debug-ad81ee2d92af6ed41f19.json",
+					"name" : "mainx1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "music::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-music-Debug-f32fdd8bfbb2231dc6eb.json",
+					"name" : "music",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "newQueue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-newQueue-Debug-725c0e09411f5294303e.json",
+					"name" : "newQueue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "newS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-newS-Debug-423593729b1c78071a3c.json",
+					"name" : "newS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "newTree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-newTree-Debug-a11a4b41c94ceb3cb050.json",
+					"name" : "newTree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "newhafuman::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-newhafuman-Debug-7b0d32d87845e3745262.json",
+					"name" : "newhafuman",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "prim::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prim-Debug-0dfb393cdaed0373df01.json",
+					"name" : "prim",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "q::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-q-Debug-f1b06af14bef72e4151e.json",
+					"name" : "q",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "r::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-r-Debug-550f96c3a0cc2ec51014.json",
+					"name" : "r",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "score::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-score-Debug-cbafa159566701e3a857.json",
+					"name" : "score",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "slink::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-slink-Debug-349db05a2b427558515f.json",
+					"name" : "slink",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sort-Debug-8e3f6b759ad271f2c510.json",
+					"name" : "sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sqlist::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sqlist-Debug-b08d69387081f8545503.json",
+					"name" : "sqlist",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "w::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-w-Debug-8dde6058256621b9f904.json",
+					"name" : "w",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug",
+		"source" : "/Users/weizhijie/Desktop/Java-code/school/c/c"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
