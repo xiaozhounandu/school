@@ -29,7 +29,7 @@ add_executable(sort homework/sort/insertSort.cpp)
 add_executable(prim homework/graph/Prim.cpp)
 add_executable(floyd homework/graph/Floyd.cpp)
 
-add_executable(Dijkstra homework/graph/Dijkstra.cpp)
+add_executable(Dijkstra homework/graph/Dijkstra1.cpp)
 add_executable(Kruskal  homework/graph/Kruskal.cpp)
 
 

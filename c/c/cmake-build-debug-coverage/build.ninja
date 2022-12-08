@@ -36,7 +36,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug/
+cmake_ninja_workdir = /Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug-coverage/
 # =============================================================================
 # Object build statements for EXECUTABLE target q
 
@@ -48,7 +48,7 @@ build cmake_object_order_depends_target_q: phony || CMakeFiles/q.dir
 
 build CMakeFiles/q.dir/homework/Test/yuansu.cpp.o: CXX_COMPILER__q_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/Test/yuansu.cpp || cmake_object_order_depends_target_q
   DEP_FILE = CMakeFiles/q.dir/homework/Test/yuansu.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/q.dir
   OBJECT_FILE_DIR = CMakeFiles/q.dir/homework/Test
 
@@ -61,7 +61,7 @@ build CMakeFiles/q.dir/homework/Test/yuansu.cpp.o: CXX_COMPILER__q_Debug /Users/
 # Link the executable q
 
 build q: CXX_EXECUTABLE_LINKER__q_Debug CMakeFiles/q.dir/homework/Test/yuansu.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/q.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -79,7 +79,7 @@ build cmake_object_order_depends_target_w: phony || CMakeFiles/w.dir
 
 build CMakeFiles/w.dir/homework/Test/insert.cpp.o: CXX_COMPILER__w_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/Test/insert.cpp || cmake_object_order_depends_target_w
   DEP_FILE = CMakeFiles/w.dir/homework/Test/insert.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/w.dir
   OBJECT_FILE_DIR = CMakeFiles/w.dir/homework/Test
 
@@ -92,7 +92,7 @@ build CMakeFiles/w.dir/homework/Test/insert.cpp.o: CXX_COMPILER__w_Debug /Users/
 # Link the executable w
 
 build w: CXX_EXECUTABLE_LINKER__w_Debug CMakeFiles/w.dir/homework/Test/insert.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/w.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -110,7 +110,7 @@ build cmake_object_order_depends_target_e: phony || CMakeFiles/e.dir
 
 build CMakeFiles/e.dir/homework/Test/move.cpp.o: CXX_COMPILER__e_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/Test/move.cpp || cmake_object_order_depends_target_e
   DEP_FILE = CMakeFiles/e.dir/homework/Test/move.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/e.dir
   OBJECT_FILE_DIR = CMakeFiles/e.dir/homework/Test
 
@@ -123,7 +123,7 @@ build CMakeFiles/e.dir/homework/Test/move.cpp.o: CXX_COMPILER__e_Debug /Users/we
 # Link the executable e
 
 build e: CXX_EXECUTABLE_LINKER__e_Debug CMakeFiles/e.dir/homework/Test/move.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/e.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -141,7 +141,7 @@ build cmake_object_order_depends_target_r: phony || CMakeFiles/r.dir
 
 build CMakeFiles/r.dir/homework/Test/auto_incr.cpp.o: CXX_COMPILER__r_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/Test/auto_incr.cpp || cmake_object_order_depends_target_r
   DEP_FILE = CMakeFiles/r.dir/homework/Test/auto_incr.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/r.dir
   OBJECT_FILE_DIR = CMakeFiles/r.dir/homework/Test
 
@@ -154,7 +154,7 @@ build CMakeFiles/r.dir/homework/Test/auto_incr.cpp.o: CXX_COMPILER__r_Debug /Use
 # Link the executable r
 
 build r: CXX_EXECUTABLE_LINKER__r_Debug CMakeFiles/r.dir/homework/Test/auto_incr.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/r.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -172,7 +172,7 @@ build cmake_object_order_depends_target_Queue: phony || CMakeFiles/Queue.dir
 
 build CMakeFiles/Queue.dir/homework/Queue/Queue.cpp.o: CXX_COMPILER__Queue_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/Queue/Queue.cpp || cmake_object_order_depends_target_Queue
   DEP_FILE = CMakeFiles/Queue.dir/homework/Queue/Queue.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/Queue.dir
   OBJECT_FILE_DIR = CMakeFiles/Queue.dir/homework/Queue
 
@@ -185,7 +185,7 @@ build CMakeFiles/Queue.dir/homework/Queue/Queue.cpp.o: CXX_COMPILER__Queue_Debug
 # Link the executable Queue
 
 build Queue: CXX_EXECUTABLE_LINKER__Queue_Debug CMakeFiles/Queue.dir/homework/Queue/Queue.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/Queue.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -203,7 +203,7 @@ build cmake_object_order_depends_target_Linkqueue: phony || CMakeFiles/Linkqueue
 
 build CMakeFiles/Linkqueue.dir/homework/Queue/LinkQueue.cpp.o: CXX_COMPILER__Linkqueue_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/Queue/LinkQueue.cpp || cmake_object_order_depends_target_Linkqueue
   DEP_FILE = CMakeFiles/Linkqueue.dir/homework/Queue/LinkQueue.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/Linkqueue.dir
   OBJECT_FILE_DIR = CMakeFiles/Linkqueue.dir/homework/Queue
 
@@ -216,7 +216,7 @@ build CMakeFiles/Linkqueue.dir/homework/Queue/LinkQueue.cpp.o: CXX_COMPILER__Lin
 # Link the executable Linkqueue
 
 build Linkqueue: CXX_EXECUTABLE_LINKER__Linkqueue_Debug CMakeFiles/Linkqueue.dir/homework/Queue/LinkQueue.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/Linkqueue.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -234,7 +234,7 @@ build cmake_object_order_depends_target_newQueue: phony || CMakeFiles/newQueue.d
 
 build CMakeFiles/newQueue.dir/homework/Queue/newQueue.cpp.o: CXX_COMPILER__newQueue_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/Queue/newQueue.cpp || cmake_object_order_depends_target_newQueue
   DEP_FILE = CMakeFiles/newQueue.dir/homework/Queue/newQueue.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/newQueue.dir
   OBJECT_FILE_DIR = CMakeFiles/newQueue.dir/homework/Queue
 
@@ -247,7 +247,7 @@ build CMakeFiles/newQueue.dir/homework/Queue/newQueue.cpp.o: CXX_COMPILER__newQu
 # Link the executable newQueue
 
 build newQueue: CXX_EXECUTABLE_LINKER__newQueue_Debug CMakeFiles/newQueue.dir/homework/Queue/newQueue.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/newQueue.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -265,7 +265,7 @@ build cmake_object_order_depends_target_slink: phony || CMakeFiles/slink.dir
 
 build CMakeFiles/slink.dir/homework/link/Slinknode1.cpp.o: CXX_COMPILER__slink_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/link/Slinknode1.cpp || cmake_object_order_depends_target_slink
   DEP_FILE = CMakeFiles/slink.dir/homework/link/Slinknode1.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/slink.dir
   OBJECT_FILE_DIR = CMakeFiles/slink.dir/homework/link
 
@@ -278,7 +278,7 @@ build CMakeFiles/slink.dir/homework/link/Slinknode1.cpp.o: CXX_COMPILER__slink_D
 # Link the executable slink
 
 build slink: CXX_EXECUTABLE_LINKER__slink_Debug CMakeFiles/slink.dir/homework/link/Slinknode1.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/slink.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -296,7 +296,7 @@ build cmake_object_order_depends_target_sqlist: phony || CMakeFiles/sqlist.dir
 
 build CMakeFiles/sqlist.dir/homework/link/Sqlist.cpp.o: CXX_COMPILER__sqlist_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/link/Sqlist.cpp || cmake_object_order_depends_target_sqlist
   DEP_FILE = CMakeFiles/sqlist.dir/homework/link/Sqlist.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/sqlist.dir
   OBJECT_FILE_DIR = CMakeFiles/sqlist.dir/homework/link
 
@@ -309,7 +309,7 @@ build CMakeFiles/sqlist.dir/homework/link/Sqlist.cpp.o: CXX_COMPILER__sqlist_Deb
 # Link the executable sqlist
 
 build sqlist: CXX_EXECUTABLE_LINKER__sqlist_Debug CMakeFiles/sqlist.dir/homework/link/Sqlist.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/sqlist.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -327,7 +327,7 @@ build cmake_object_order_depends_target_mainx: phony || CMakeFiles/mainx.dir
 
 build CMakeFiles/mainx.dir/homework/link/mainx.cpp.o: CXX_COMPILER__mainx_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/link/mainx.cpp || cmake_object_order_depends_target_mainx
   DEP_FILE = CMakeFiles/mainx.dir/homework/link/mainx.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/mainx.dir
   OBJECT_FILE_DIR = CMakeFiles/mainx.dir/homework/link
 
@@ -340,7 +340,7 @@ build CMakeFiles/mainx.dir/homework/link/mainx.cpp.o: CXX_COMPILER__mainx_Debug 
 # Link the executable mainx
 
 build mainx: CXX_EXECUTABLE_LINKER__mainx_Debug CMakeFiles/mainx.dir/homework/link/mainx.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/mainx.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -358,7 +358,7 @@ build cmake_object_order_depends_target_c: phony || CMakeFiles/c.dir
 
 build CMakeFiles/c.dir/homework/stack/Stack.cpp.o: CXX_COMPILER__c_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/stack/Stack.cpp || cmake_object_order_depends_target_c
   DEP_FILE = CMakeFiles/c.dir/homework/stack/Stack.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/c.dir
   OBJECT_FILE_DIR = CMakeFiles/c.dir/homework/stack
 
@@ -371,7 +371,7 @@ build CMakeFiles/c.dir/homework/stack/Stack.cpp.o: CXX_COMPILER__c_Debug /Users/
 # Link the executable c
 
 build c: CXX_EXECUTABLE_LINKER__c_Debug CMakeFiles/c.dir/homework/stack/Stack.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/c.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -389,7 +389,7 @@ build cmake_object_order_depends_target_L: phony || CMakeFiles/L.dir
 
 build CMakeFiles/L.dir/homework/stack/LinkStack.cpp.o: CXX_COMPILER__L_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/stack/LinkStack.cpp || cmake_object_order_depends_target_L
   DEP_FILE = CMakeFiles/L.dir/homework/stack/LinkStack.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/L.dir
   OBJECT_FILE_DIR = CMakeFiles/L.dir/homework/stack
 
@@ -402,7 +402,7 @@ build CMakeFiles/L.dir/homework/stack/LinkStack.cpp.o: CXX_COMPILER__L_Debug /Us
 # Link the executable L
 
 build L: CXX_EXECUTABLE_LINKER__L_Debug CMakeFiles/L.dir/homework/stack/LinkStack.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/L.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -420,7 +420,7 @@ build cmake_object_order_depends_target_mainx1: phony || CMakeFiles/mainx1.dir
 
 build CMakeFiles/mainx1.dir/homework/stack/testLink.cpp.o: CXX_COMPILER__mainx1_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/stack/testLink.cpp || cmake_object_order_depends_target_mainx1
   DEP_FILE = CMakeFiles/mainx1.dir/homework/stack/testLink.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/mainx1.dir
   OBJECT_FILE_DIR = CMakeFiles/mainx1.dir/homework/stack
 
@@ -433,7 +433,7 @@ build CMakeFiles/mainx1.dir/homework/stack/testLink.cpp.o: CXX_COMPILER__mainx1_
 # Link the executable mainx1
 
 build mainx1: CXX_EXECUTABLE_LINKER__mainx1_Debug CMakeFiles/mainx1.dir/homework/stack/testLink.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/mainx1.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -451,7 +451,7 @@ build cmake_object_order_depends_target_coll: phony || CMakeFiles/coll.dir
 
 build CMakeFiles/coll.dir/homework/prase/collectq.cpp.o: CXX_COMPILER__coll_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/prase/collectq.cpp || cmake_object_order_depends_target_coll
   DEP_FILE = CMakeFiles/coll.dir/homework/prase/collectq.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/coll.dir
   OBJECT_FILE_DIR = CMakeFiles/coll.dir/homework/prase
 
@@ -464,7 +464,7 @@ build CMakeFiles/coll.dir/homework/prase/collectq.cpp.o: CXX_COMPILER__coll_Debu
 # Link the executable coll
 
 build coll: CXX_EXECUTABLE_LINKER__coll_Debug CMakeFiles/coll.dir/homework/prase/collectq.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/coll.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -482,7 +482,7 @@ build cmake_object_order_depends_target_sort: phony || CMakeFiles/sort.dir
 
 build CMakeFiles/sort.dir/homework/sort/insertSort.cpp.o: CXX_COMPILER__sort_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/sort/insertSort.cpp || cmake_object_order_depends_target_sort
   DEP_FILE = CMakeFiles/sort.dir/homework/sort/insertSort.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/sort.dir
   OBJECT_FILE_DIR = CMakeFiles/sort.dir/homework/sort
 
@@ -495,7 +495,7 @@ build CMakeFiles/sort.dir/homework/sort/insertSort.cpp.o: CXX_COMPILER__sort_Deb
 # Link the executable sort
 
 build sort: CXX_EXECUTABLE_LINKER__sort_Debug CMakeFiles/sort.dir/homework/sort/insertSort.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/sort.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -513,7 +513,7 @@ build cmake_object_order_depends_target_prim: phony || CMakeFiles/prim.dir
 
 build CMakeFiles/prim.dir/homework/graph/Prim.cpp.o: CXX_COMPILER__prim_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/graph/Prim.cpp || cmake_object_order_depends_target_prim
   DEP_FILE = CMakeFiles/prim.dir/homework/graph/Prim.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/prim.dir
   OBJECT_FILE_DIR = CMakeFiles/prim.dir/homework/graph
 
@@ -526,7 +526,7 @@ build CMakeFiles/prim.dir/homework/graph/Prim.cpp.o: CXX_COMPILER__prim_Debug /U
 # Link the executable prim
 
 build prim: CXX_EXECUTABLE_LINKER__prim_Debug CMakeFiles/prim.dir/homework/graph/Prim.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/prim.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -544,7 +544,7 @@ build cmake_object_order_depends_target_floyd: phony || CMakeFiles/floyd.dir
 
 build CMakeFiles/floyd.dir/homework/graph/Floyd.cpp.o: CXX_COMPILER__floyd_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/graph/Floyd.cpp || cmake_object_order_depends_target_floyd
   DEP_FILE = CMakeFiles/floyd.dir/homework/graph/Floyd.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/floyd.dir
   OBJECT_FILE_DIR = CMakeFiles/floyd.dir/homework/graph
 
@@ -557,7 +557,7 @@ build CMakeFiles/floyd.dir/homework/graph/Floyd.cpp.o: CXX_COMPILER__floyd_Debug
 # Link the executable floyd
 
 build floyd: CXX_EXECUTABLE_LINKER__floyd_Debug CMakeFiles/floyd.dir/homework/graph/Floyd.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/floyd.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -575,7 +575,7 @@ build cmake_object_order_depends_target_Dijkstra: phony || CMakeFiles/Dijkstra.d
 
 build CMakeFiles/Dijkstra.dir/homework/graph/Dijkstra1.cpp.o: CXX_COMPILER__Dijkstra_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/graph/Dijkstra1.cpp || cmake_object_order_depends_target_Dijkstra
   DEP_FILE = CMakeFiles/Dijkstra.dir/homework/graph/Dijkstra1.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/Dijkstra.dir
   OBJECT_FILE_DIR = CMakeFiles/Dijkstra.dir/homework/graph
 
@@ -588,7 +588,7 @@ build CMakeFiles/Dijkstra.dir/homework/graph/Dijkstra1.cpp.o: CXX_COMPILER__Dijk
 # Link the executable Dijkstra
 
 build Dijkstra: CXX_EXECUTABLE_LINKER__Dijkstra_Debug CMakeFiles/Dijkstra.dir/homework/graph/Dijkstra1.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/Dijkstra.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -606,7 +606,7 @@ build cmake_object_order_depends_target_Kruskal: phony || CMakeFiles/Kruskal.dir
 
 build CMakeFiles/Kruskal.dir/homework/graph/Kruskal.cpp.o: CXX_COMPILER__Kruskal_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/graph/Kruskal.cpp || cmake_object_order_depends_target_Kruskal
   DEP_FILE = CMakeFiles/Kruskal.dir/homework/graph/Kruskal.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/Kruskal.dir
   OBJECT_FILE_DIR = CMakeFiles/Kruskal.dir/homework/graph
 
@@ -619,7 +619,7 @@ build CMakeFiles/Kruskal.dir/homework/graph/Kruskal.cpp.o: CXX_COMPILER__Kruskal
 # Link the executable Kruskal
 
 build Kruskal: CXX_EXECUTABLE_LINKER__Kruskal_Debug CMakeFiles/Kruskal.dir/homework/graph/Kruskal.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/Kruskal.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -637,7 +637,7 @@ build cmake_object_order_depends_target_data: phony || CMakeFiles/data.dir
 
 build CMakeFiles/data.dir/homework/his/data.cpp.o: CXX_COMPILER__data_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/his/data.cpp || cmake_object_order_depends_target_data
   DEP_FILE = CMakeFiles/data.dir/homework/his/data.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/data.dir
   OBJECT_FILE_DIR = CMakeFiles/data.dir/homework/his
 
@@ -650,7 +650,7 @@ build CMakeFiles/data.dir/homework/his/data.cpp.o: CXX_COMPILER__data_Debug /Use
 # Link the executable data
 
 build data: CXX_EXECUTABLE_LINKER__data_Debug CMakeFiles/data.dir/homework/his/data.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/data.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -668,7 +668,7 @@ build cmake_object_order_depends_target_score: phony || CMakeFiles/score.dir
 
 build CMakeFiles/score.dir/homework/his/score.cpp.o: CXX_COMPILER__score_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/his/score.cpp || cmake_object_order_depends_target_score
   DEP_FILE = CMakeFiles/score.dir/homework/his/score.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/score.dir
   OBJECT_FILE_DIR = CMakeFiles/score.dir/homework/his
 
@@ -681,7 +681,7 @@ build CMakeFiles/score.dir/homework/his/score.cpp.o: CXX_COMPILER__score_Debug /
 # Link the executable score
 
 build score: CXX_EXECUTABLE_LINKER__score_Debug CMakeFiles/score.dir/homework/his/score.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/score.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -699,7 +699,7 @@ build cmake_object_order_depends_target_String: phony || CMakeFiles/String.dir
 
 build CMakeFiles/String.dir/homework/his/String.cpp.o: CXX_COMPILER__String_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/his/String.cpp || cmake_object_order_depends_target_String
   DEP_FILE = CMakeFiles/String.dir/homework/his/String.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/String.dir
   OBJECT_FILE_DIR = CMakeFiles/String.dir/homework/his
 
@@ -712,7 +712,7 @@ build CMakeFiles/String.dir/homework/his/String.cpp.o: CXX_COMPILER__String_Debu
 # Link the executable String
 
 build String: CXX_EXECUTABLE_LINKER__String_Debug CMakeFiles/String.dir/homework/his/String.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/String.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -730,7 +730,7 @@ build cmake_object_order_depends_target_SqString: phony || CMakeFiles/SqString.d
 
 build CMakeFiles/SqString.dir/homework/SqString/SqString.cpp.o: CXX_COMPILER__SqString_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/SqString/SqString.cpp || cmake_object_order_depends_target_SqString
   DEP_FILE = CMakeFiles/SqString.dir/homework/SqString/SqString.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/SqString.dir
   OBJECT_FILE_DIR = CMakeFiles/SqString.dir/homework/SqString
 
@@ -743,7 +743,7 @@ build CMakeFiles/SqString.dir/homework/SqString/SqString.cpp.o: CXX_COMPILER__Sq
 # Link the executable SqString
 
 build SqString: CXX_EXECUTABLE_LINKER__SqString_Debug CMakeFiles/SqString.dir/homework/SqString/SqString.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/SqString.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -761,7 +761,7 @@ build cmake_object_order_depends_target_newS: phony || CMakeFiles/newS.dir
 
 build CMakeFiles/newS.dir/homework/SqString/newSqString.cpp.o: CXX_COMPILER__newS_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/SqString/newSqString.cpp || cmake_object_order_depends_target_newS
   DEP_FILE = CMakeFiles/newS.dir/homework/SqString/newSqString.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/newS.dir
   OBJECT_FILE_DIR = CMakeFiles/newS.dir/homework/SqString
 
@@ -774,7 +774,7 @@ build CMakeFiles/newS.dir/homework/SqString/newSqString.cpp.o: CXX_COMPILER__new
 # Link the executable newS
 
 build newS: CXX_EXECUTABLE_LINKER__newS_Debug CMakeFiles/newS.dir/homework/SqString/newSqString.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/newS.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -792,7 +792,7 @@ build cmake_object_order_depends_target_newTree: phony || CMakeFiles/newTree.dir
 
 build CMakeFiles/newTree.dir/homework/tree/newTree.cpp.o: CXX_COMPILER__newTree_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/tree/newTree.cpp || cmake_object_order_depends_target_newTree
   DEP_FILE = CMakeFiles/newTree.dir/homework/tree/newTree.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/newTree.dir
   OBJECT_FILE_DIR = CMakeFiles/newTree.dir/homework/tree
 
@@ -805,7 +805,7 @@ build CMakeFiles/newTree.dir/homework/tree/newTree.cpp.o: CXX_COMPILER__newTree_
 # Link the executable newTree
 
 build newTree: CXX_EXECUTABLE_LINKER__newTree_Debug CMakeFiles/newTree.dir/homework/tree/newTree.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/newTree.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -823,7 +823,7 @@ build cmake_object_order_depends_target_newhafuman: phony || CMakeFiles/newhafum
 
 build CMakeFiles/newhafuman.dir/homework/tree/haFumanTree.cpp.o: CXX_COMPILER__newhafuman_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/tree/haFumanTree.cpp || cmake_object_order_depends_target_newhafuman
   DEP_FILE = CMakeFiles/newhafuman.dir/homework/tree/haFumanTree.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/newhafuman.dir
   OBJECT_FILE_DIR = CMakeFiles/newhafuman.dir/homework/tree
 
@@ -836,7 +836,7 @@ build CMakeFiles/newhafuman.dir/homework/tree/haFumanTree.cpp.o: CXX_COMPILER__n
 # Link the executable newhafuman
 
 build newhafuman: CXX_EXECUTABLE_LINKER__newhafuman_Debug CMakeFiles/newhafuman.dir/homework/tree/haFumanTree.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -fprofile-instr-generate -fcoverage-mapping -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/newhafuman.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -848,7 +848,7 @@ build newhafuman: CXX_EXECUTABLE_LINKER__newhafuman_Debug CMakeFiles/newhafuman.
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd /Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug-coverage && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -859,7 +859,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/weizhijie/Desktop/Java-code/school/c/c -B/Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug
+  COMMAND = cd /Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug-coverage && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/weizhijie/Desktop/Java-code/school/c/c -B/Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug-coverage
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -875,7 +875,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 
 #############################################
-# Folder: /Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug
+# Folder: /Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug-coverage
 
 build all: phony q w e r Queue Linkqueue newQueue slink sqlist mainx c L mainx1 coll sort prim floyd Dijkstra Kruskal data score String SqString newS newTree newhafuman
 
