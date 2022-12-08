@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "newTree"
+			"path" : "score"
 		}
 	],
 	"backtrace" : 1,
@@ -24,7 +24,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 49,
+				"line" : 42,
 				"parent" : 0
 			}
 		]
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "newTree::@6890427a1f51a3e7e1df",
+	"id" : "score::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -72,8 +72,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "newTree",
-	"nameOnDisk" : "newTree",
+	"name" : "score",
+	"nameOnDisk" : "score",
 	"paths" : 
 	{
 		"build" : ".",
@@ -94,7 +94,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "homework/tree/newTree.cpp",
+			"path" : "homework/his/score.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

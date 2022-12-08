@@ -39,7 +39,8 @@
 						21,
 						22,
 						23,
-						24
+						24,
+						25
 					]
 				}
 			],
@@ -78,12 +79,27 @@
 						21,
 						22,
 						23,
-						24
+						24,
+						25
 					]
 				}
 			],
 			"targets" : 
 			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Dijkstra::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dijkstra-Debug-b2aeecf2266ff2454e68.json",
+					"name" : "Dijkstra",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kruskal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kruskal-Debug-dc360d26d5c5a53dd492.json",
+					"name" : "Kruskal",
+					"projectIndex" : 0
+				},
 				{
 					"directoryIndex" : 0,
 					"id" : "L::@6890427a1f51a3e7e1df",
@@ -108,14 +124,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "SqString::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-SqString-Debug-1b4c8b8fab9dd2c4906e.json",
+					"jsonFile" : "target-SqString-Debug-a82e3ff2491342c3fdf9.json",
 					"name" : "SqString",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "String::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-String-Debug-0b3596544d832c1a68bf.json",
+					"jsonFile" : "target-String-Debug-b9d695b2192422f34b92.json",
 					"name" : "String",
 					"projectIndex" : 0
 				},
@@ -136,7 +152,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "data::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-data-Debug-21067e979e4af4b094e9.json",
+					"jsonFile" : "target-data-Debug-737d0ef5bb98942f62ed.json",
 					"name" : "data",
 					"projectIndex" : 0
 				},
@@ -150,7 +166,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "floyd::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-floyd-Debug-09ec4f0e0d191ab9e54e.json",
+					"jsonFile" : "target-floyd-Debug-e949777eba29c607cca1.json",
 					"name" : "floyd",
 					"projectIndex" : 0
 				},
@@ -170,13 +186,6 @@
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "music::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-music-Debug-f32fdd8bfbb2231dc6eb.json",
-					"name" : "music",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
 					"id" : "newQueue::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-newQueue-Debug-725c0e09411f5294303e.json",
 					"name" : "newQueue",
@@ -185,21 +194,21 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "newS::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-newS-Debug-423593729b1c78071a3c.json",
+					"jsonFile" : "target-newS-Debug-d306779e49a0df147ea8.json",
 					"name" : "newS",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "newTree::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-newTree-Debug-a11a4b41c94ceb3cb050.json",
+					"jsonFile" : "target-newTree-Debug-b819ac0b26be73edad83.json",
 					"name" : "newTree",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "newhafuman::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-newhafuman-Debug-7b0d32d87845e3745262.json",
+					"jsonFile" : "target-newhafuman-Debug-b82249824389dd66cb84.json",
 					"name" : "newhafuman",
 					"projectIndex" : 0
 				},
@@ -227,7 +236,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "score::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-score-Debug-cbafa159566701e3a857.json",
+					"jsonFile" : "target-score-Debug-efa5dadb95907d359013.json",
 					"name" : "score",
 					"projectIndex" : 0
 				},

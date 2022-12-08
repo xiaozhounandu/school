@@ -27,11 +27,12 @@ add_executable(coll homework/prase/collectq.cpp)
 add_executable(sort homework/sort/insertSort.cpp)
 
 add_executable(prim homework/graph/Prim.cpp)
-
 add_executable(floyd homework/graph/Floyd.cpp)
 
+add_executable(Dijkstra homework/graph/Dijkstra.cpp)
+add_executable(Kruskal  homework/graph/Kruskal.cpp)
 
-add_executable(music homework/music.cpp)
+
 
 
 
