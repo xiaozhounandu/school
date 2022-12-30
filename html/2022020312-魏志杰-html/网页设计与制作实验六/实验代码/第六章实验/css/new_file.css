@@ -1,0 +1,210 @@
+	<title>千年之恋</title>
+	<style type="text/css">
+		* {
+			margin: 0;
+			/*外边距清零*/
+			padding: 0;
+			/*内边距清零*/
+			list-style: none;
+			/*清除列表样式*/
+			outline: none;
+			/*清除轮廓*/
+			border: 0;
+			/*边框设为0*/
+			background: none;
+			/*背景清除*/
+		}
+ 
+		body {
+			font-family: "微软雅黑";
+			/*字体样式*/
+			font-size: 14px;
+			/*字体大小*/
+		}
+ 
+		a:link,
+		a:visited {
+			text-decoration: none;
+			/*下划线清除*/
+			color: #fff;
+			/*字体颜色*/
+			font-size: 16px;
+			/*字体大小*/
+		}
+ 
+		#header {
+			width: 980px;
+			/*宽度设置*/
+			height: 70px;
+			/*高度设置*/
+			margin: 0 auto;
+			/*页面居中显示*/
+			padding-top: 20px;
+			/* 上内边距设置*/
+		}
+ 
+		#nav_bg {
+			width: 100%;
+			/*宽度设置*/
+			height: 48px;
+			/*高度设置*/
+			background: #fe668f;
+			/*背景颜色*/
+		}
+ 
+		.nav {
+			width: 980px;
+			/*宽度设置*/
+			margin: 0 auto;
+			/*页面居中显示*/
+		}
+ 
+		.nav li {
+			float: left;
+			/*左浮动*/
+		}
+ 
+		a {
+			display: inline-block;
+			/*转换为行内块元素*/
+			height: 48px;
+			/*高度设置*/
+			padding: 0 50px;
+			/*左右内边距*/
+			line-height: 48px;
+			/*字体行高*/
+		}
+ 
+		.bg {
+			background: #fe9ab5;
+			/*背景颜色*/
+		}
+ 
+		#banner {
+			width: 980px;
+			/*宽度设置*/
+			margin: 0 auto;
+			/*页面居中显示*/
+		}
+ 
+		#content {
+			width: 930px;
+			/*宽度设置*/
+			height: 934px;
+			/*高度设置*/
+			background: url(img/content_bg.jpg) no-repeat;
+			/*背景图片*/
+			margin: 0 auto;
+			/*页面居中显示*/
+			padding-left: 150px;
+			/*左内边距*/
+		}
+ 
+		.step {
+			width: 454px;
+			/*宽度设置*/
+			height: 80px;
+			/*高度设置*/
+			font-size: 20px;
+			/*字体大小*/
+			font-weight: 100;
+			/*字体宽度设置*/
+			color: #dd8787;
+			background: url(img/step.jpg) center right no-repeat;
+			/*背景图片*/
+			line-height: 80px;
+			/*字体行高*/
+		}
+ 
+		h3 {
+			width: 444px;
+			/*宽度设置*/
+			height: 45px;
+			/*高度设置*/
+			font-size: 20px;
+			/*字体大小*/
+			font-weight: 100;
+			/*字体宽度设置*/
+			color: #dd8787;
+			/*字体颜色*/
+			line-height: 45px;
+			/*行高设置*/
+			border-bottom: 1px solid #dd8787;
+		}
+ 
+		td {
+			height: 50px;
+			/*高度设置*/
+			color: #dd8787;
+			/*字体颜色*/
+		}
+ 
+		.left {
+			width: 120px;
+			/*宽度设置*/
+			text-align: right;
+			/*字体右对齐*/
+		}
+ 
+		.right {
+			width: 320px;
+			/*宽度设置*/
+			height: 28px;
+			/*高度设置*/
+			border: 1px solid #dd8787;
+			/*边框设置*/
+		}
+ 
+		input {
+			vertical-align: middle;
+		}
+ 
+		select {
+			width: 171px;
+			/*宽度设置*/
+			border: 1px solid #dd8787;
+			/*边框设置*/
+			color: #aaa;
+			/*字体颜色*/
+		}
+ 
+		textarea {
+			width: 380px;
+			/*宽度设置*/
+			border: 1px solid #dd8787;
+			/*边框设置*/
+			resize: none;
+			font: 12px;
+			/*字体大小*/
+			color: #aaa;
+			/*字体颜色*/
+			padding: 20px;
+			/*设置内边距*/
+		}
+ 
+		.btn {
+			width: 409px;
+			/*宽度设置*/
+			height: 76px;
+			/*高度设置*/
+			background: url(img/btn.jpg) right center no-repeat;
+			/*背景图片*/
+		}
+ 
+		#footer {
+			width: 100%;
+			/*宽度设置*/
+			height: 68px;
+			/*高度设置*/
+			line-height: 26px;
+			/*字体行高*/
+			background: #de668f;
+			/*背景颜色*/
+			color: #fff;
+			/*字体颜色*/
+			text-align: center;
+			/*字体居中*/
+			padding-top: 40px;
+			/*设置上内边距*/
+		}
+	</style>

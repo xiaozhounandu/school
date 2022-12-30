@@ -25,6 +25,7 @@
         e.printStackTrace();
     }
 %>
+<a href="test1.jsp" >查看数据库</a>
 </body>
 </html>
 

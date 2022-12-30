@@ -13,6 +13,12 @@
 /Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug/CMakeFiles/mainx1.dir
 /Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug/CMakeFiles/coll.dir
 /Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug/CMakeFiles/sort.dir
+/Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug/CMakeFiles/shell.dir
+/Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug/CMakeFiles/dump.dir
+/Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug/CMakeFiles/Merge.dir
+/Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug/CMakeFiles/newMerge.dir
+/Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug/CMakeFiles/newHeap.dir
+/Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug/CMakeFiles/newShellSort.dir
 /Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug/CMakeFiles/prim.dir
 /Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug/CMakeFiles/floyd.dir
 /Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug/CMakeFiles/Dijkstra.dir

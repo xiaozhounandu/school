@@ -503,6 +503,192 @@ build sort: CXX_EXECUTABLE_LINKER__sort_Debug CMakeFiles/sort.dir/homework/sort/
   TARGET_PDB = sort.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target shell
+
+
+#############################################
+# Order-only phony target for shell
+
+build cmake_object_order_depends_target_shell: phony || CMakeFiles/shell.dir
+
+build CMakeFiles/shell.dir/homework/sort/Shellsort.cpp.o: CXX_COMPILER__shell_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/sort/Shellsort.cpp || cmake_object_order_depends_target_shell
+  DEP_FILE = CMakeFiles/shell.dir/homework/sort/Shellsort.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/shell.dir
+  OBJECT_FILE_DIR = CMakeFiles/shell.dir/homework/sort
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target shell
+
+
+#############################################
+# Link the executable shell
+
+build shell: CXX_EXECUTABLE_LINKER__shell_Debug CMakeFiles/shell.dir/homework/sort/Shellsort.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/shell.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = shell
+  TARGET_PDB = shell.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target dump
+
+
+#############################################
+# Order-only phony target for dump
+
+build cmake_object_order_depends_target_dump: phony || CMakeFiles/dump.dir
+
+build CMakeFiles/dump.dir/homework/sort/HeapSort.cpp.o: CXX_COMPILER__dump_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/sort/HeapSort.cpp || cmake_object_order_depends_target_dump
+  DEP_FILE = CMakeFiles/dump.dir/homework/sort/HeapSort.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/dump.dir
+  OBJECT_FILE_DIR = CMakeFiles/dump.dir/homework/sort
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target dump
+
+
+#############################################
+# Link the executable dump
+
+build dump: CXX_EXECUTABLE_LINKER__dump_Debug CMakeFiles/dump.dir/homework/sort/HeapSort.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/dump.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = dump
+  TARGET_PDB = dump.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Merge
+
+
+#############################################
+# Order-only phony target for Merge
+
+build cmake_object_order_depends_target_Merge: phony || CMakeFiles/Merge.dir
+
+build CMakeFiles/Merge.dir/homework/sort/MergeSort.cpp.o: CXX_COMPILER__Merge_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/sort/MergeSort.cpp || cmake_object_order_depends_target_Merge
+  DEP_FILE = CMakeFiles/Merge.dir/homework/sort/MergeSort.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/Merge.dir
+  OBJECT_FILE_DIR = CMakeFiles/Merge.dir/homework/sort
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Merge
+
+
+#############################################
+# Link the executable Merge
+
+build Merge: CXX_EXECUTABLE_LINKER__Merge_Debug CMakeFiles/Merge.dir/homework/sort/MergeSort.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/Merge.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Merge
+  TARGET_PDB = Merge.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target newMerge
+
+
+#############################################
+# Order-only phony target for newMerge
+
+build cmake_object_order_depends_target_newMerge: phony || CMakeFiles/newMerge.dir
+
+build CMakeFiles/newMerge.dir/homework/sort/SortPlus/MergeSort.cpp.o: CXX_COMPILER__newMerge_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/sort/SortPlus/MergeSort.cpp || cmake_object_order_depends_target_newMerge
+  DEP_FILE = CMakeFiles/newMerge.dir/homework/sort/SortPlus/MergeSort.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/newMerge.dir
+  OBJECT_FILE_DIR = CMakeFiles/newMerge.dir/homework/sort/SortPlus
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target newMerge
+
+
+#############################################
+# Link the executable newMerge
+
+build newMerge: CXX_EXECUTABLE_LINKER__newMerge_Debug CMakeFiles/newMerge.dir/homework/sort/SortPlus/MergeSort.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/newMerge.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = newMerge
+  TARGET_PDB = newMerge.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target newHeap
+
+
+#############################################
+# Order-only phony target for newHeap
+
+build cmake_object_order_depends_target_newHeap: phony || CMakeFiles/newHeap.dir
+
+build CMakeFiles/newHeap.dir/homework/sort/SortPlus/HeapSort.cpp.o: CXX_COMPILER__newHeap_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/sort/SortPlus/HeapSort.cpp || cmake_object_order_depends_target_newHeap
+  DEP_FILE = CMakeFiles/newHeap.dir/homework/sort/SortPlus/HeapSort.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/newHeap.dir
+  OBJECT_FILE_DIR = CMakeFiles/newHeap.dir/homework/sort/SortPlus
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target newHeap
+
+
+#############################################
+# Link the executable newHeap
+
+build newHeap: CXX_EXECUTABLE_LINKER__newHeap_Debug CMakeFiles/newHeap.dir/homework/sort/SortPlus/HeapSort.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/newHeap.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = newHeap
+  TARGET_PDB = newHeap.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target newShellSort
+
+
+#############################################
+# Order-only phony target for newShellSort
+
+build cmake_object_order_depends_target_newShellSort: phony || CMakeFiles/newShellSort.dir
+
+build CMakeFiles/newShellSort.dir/homework/sort/SortPlus/ShellSort.cpp.o: CXX_COMPILER__newShellSort_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/sort/SortPlus/ShellSort.cpp || cmake_object_order_depends_target_newShellSort
+  DEP_FILE = CMakeFiles/newShellSort.dir/homework/sort/SortPlus/ShellSort.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/newShellSort.dir
+  OBJECT_FILE_DIR = CMakeFiles/newShellSort.dir/homework/sort/SortPlus
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target newShellSort
+
+
+#############################################
+# Link the executable newShellSort
+
+build newShellSort: CXX_EXECUTABLE_LINKER__newShellSort_Debug CMakeFiles/newShellSort.dir/homework/sort/SortPlus/ShellSort.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/newShellSort.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = newShellSort
+  TARGET_PDB = newShellSort.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target prim
 
 
@@ -573,11 +759,11 @@ build floyd: CXX_EXECUTABLE_LINKER__floyd_Debug CMakeFiles/floyd.dir/homework/gr
 
 build cmake_object_order_depends_target_Dijkstra: phony || CMakeFiles/Dijkstra.dir
 
-build CMakeFiles/Dijkstra.dir/homework/graph/Dijkstra1.cpp.o: CXX_COMPILER__Dijkstra_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/graph/Dijkstra1.cpp || cmake_object_order_depends_target_Dijkstra
-  DEP_FILE = CMakeFiles/Dijkstra.dir/homework/graph/Dijkstra1.cpp.o.d
+build CMakeFiles/Dijkstra.dir/homework/Dijkstra1.cpp.o: CXX_COMPILER__Dijkstra_Debug /Users/weizhijie/Desktop/Java-code/school/c/c/homework/Dijkstra1.cpp || cmake_object_order_depends_target_Dijkstra
+  DEP_FILE = CMakeFiles/Dijkstra.dir/homework/Dijkstra1.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/Dijkstra.dir
-  OBJECT_FILE_DIR = CMakeFiles/Dijkstra.dir/homework/graph
+  OBJECT_FILE_DIR = CMakeFiles/Dijkstra.dir/homework
 
 
 # =============================================================================
@@ -587,7 +773,7 @@ build CMakeFiles/Dijkstra.dir/homework/graph/Dijkstra1.cpp.o: CXX_COMPILER__Dijk
 #############################################
 # Link the executable Dijkstra
 
-build Dijkstra: CXX_EXECUTABLE_LINKER__Dijkstra_Debug CMakeFiles/Dijkstra.dir/homework/graph/Dijkstra1.cpp.o
+build Dijkstra: CXX_EXECUTABLE_LINKER__Dijkstra_Debug CMakeFiles/Dijkstra.dir/homework/Dijkstra1.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/Dijkstra.dir
   POST_BUILD = :
@@ -877,7 +1063,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug
 
-build all: phony q w e r Queue Linkqueue newQueue slink sqlist mainx c L mainx1 coll sort prim floyd Dijkstra Kruskal data score String SqString newS newTree newhafuman
+build all: phony q w e r Queue Linkqueue newQueue slink sqlist mainx c L mainx1 coll sort shell dump Merge newMerge newHeap newShellSort prim floyd Dijkstra Kruskal data score String SqString newS newTree newhafuman
 
 # =============================================================================
 # Built-in targets

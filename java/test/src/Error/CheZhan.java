@@ -25,11 +25,11 @@ class Customer implements Runnable{
         while (tickets > 0){
             synchronized (Customer.class){
                 if (tickets > 0){
-//                    try {
+                    try {
                         Thread.sleep(500);
-//                    } catch (InterruptedException e) {
-//                        e.printStackTrace();
-//                    }
+                   } catch (InterruptedException e) {
+                      e.printStackTrace();
+                    }
                     tickets--;
                 } else {
                     System.out.println("当日票次已售完！！！");

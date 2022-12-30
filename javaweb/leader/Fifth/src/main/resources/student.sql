@@ -5,7 +5,7 @@
  Source Server Type    : MySQL
  Source Server Version : 80019
  Source Host           : localhost:3306
- Source Schema         : student
+ Source Schema         : po.student
 
  Target Server Type    : MySQL
  Target Server Version : 80019
@@ -18,10 +18,10 @@ SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
 -- ----------------------------
--- Table structure for student
+-- Table structure for po.student
 -- ----------------------------
-DROP TABLE IF EXISTS `student`;
-CREATE TABLE `student`  (
+DROP TABLE IF EXISTS `po.student`;
+CREATE TABLE `po.student`  (
   `id` int(0) NOT NULL,
   `name` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
   `password` int(0) NULL DEFAULT NULL,
@@ -31,9 +31,9 @@ CREATE TABLE `student`  (
 ) ENGINE = InnoDB CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Dynamic;
 
 -- ----------------------------
--- Records of student
+-- Records of po.student
 -- ----------------------------
-INSERT INTO `student` VALUES (1, '22', 22, '22', '22');
-INSERT INTO `student` VALUES (11, '11', 111, '11', '11');
+INSERT INTO `po.student` VALUES (1, '22', 22, '22', '22');
+INSERT INTO `po.student` VALUES (11, '11', 111, '11', '11');
 
 SET FOREIGN_KEY_CHECKS = 1;

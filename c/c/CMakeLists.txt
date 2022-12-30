@@ -25,11 +25,19 @@ add_executable(coll homework/prase/collectq.cpp)
 
 
 add_executable(sort homework/sort/insertSort.cpp)
+add_executable(shell homework/sort/Shellsort.cpp )
+add_executable(dump homework/sort/HeapSort.cpp )
+
+add_executable(Merge homework/sort/MergeSort.cpp)
+
+add_executable(newMerge homework/sort/SortPlus/MergeSort.cpp)
+add_executable(newHeap homework/sort/SortPlus/HeapSort.cpp)
+add_executable(newShellSort homework/sort/SortPlus/ShellSort.cpp)
 
 add_executable(prim homework/graph/Prim.cpp)
 add_executable(floyd homework/graph/Floyd.cpp)
 
-add_executable(Dijkstra homework/graph/Dijkstra1.cpp)
+add_executable(Dijkstra homework/Dijkstra1.cpp)
 add_executable(Kruskal  homework/graph/Kruskal.cpp)
 
 

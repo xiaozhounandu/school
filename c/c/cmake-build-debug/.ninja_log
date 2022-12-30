@@ -1,0 +1,21 @@
+# ninja log v5
+0	37	1671065388439164531	CMakeFiles/dump.dir/homework/sort/dump.cpp.o	679166884185a82f
+0	27	1670468089216116124	CMakeFiles/Dijkstra.dir/homework/graph/Dijkstra1.cpp.o	b80536b20f00cb33
+28	60	1670468115612653760	floyd	360cc23389c3dd5e
+45	81	1670468663580520277	newTree	6ab9d771326866e9
+0	45	1670468663543356350	CMakeFiles/newTree.dir/homework/tree/newTree.cpp.o	390dd7c198be0b7c
+0	33	1671064350050554873	CMakeFiles/shell.dir/homework/sort/Shellsort.cpp.o	da8e4eee43910ed5
+33	65	1671064350083586213	shell	7faae6e627200044
+38	72	1671065388474666797	dump	1568c413570f7e19
+0	39	1670473885915812848	CMakeFiles/Dijkstra.dir/homework/Dijkstra1.cpp.o	a5dad08b5386b6f0
+39	69	1671067860012680602	Merge	e952cf6f395fa78a
+0	28	1670468115579663732	CMakeFiles/floyd.dir/homework/graph/Floyd.cpp.o	b7679ad3fa6d91f2
+0	28	1671068480486746720	CMakeFiles/newMerge.dir/homework/sort/newMergeSort.cpp.o	1731d29910d30c09
+25	56	1671068521194806619	newMerge	44cc65fef6bfd5c7
+40	70	1670473885947646307	Dijkstra	e54bfaba6eb4b278
+1	39	1671067859981435926	CMakeFiles/Merge.dir/homework/sort/MergeSort.cpp.o	8498cb93412e83ad
+0	25	1671068521163625641	CMakeFiles/newMerge.dir/homework/sort/SortPlus/MergeSort.cpp.o	a70b17a65541808c
+0	35	1671068733746114931	CMakeFiles/newHeap.dir/homework/sort/SortPlus/HeapSort.cpp.o	6ce1479b23a24fcc
+35	69	1671068733780506581	newHeap	c6d9284bac6875f
+0	41	1671068744297484412	CMakeFiles/newShellSort.dir/homework/sort/SortPlus/ShellSort.cpp.o	4ab6140550424260
+41	74	1671068744331499437	newShellSort	97a0f9ab80d9bc00
