@@ -34,8 +34,8 @@ void ShellSort(RecType R[],int n){
     }
 }
 int main(){
-    int i,k,n=19;
-    KeyType a[]={18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0};
+    int i,k,n=10;
+    KeyType a[]={9,8,7,6,5,4,3,2,1,0};
     RecType R[MAXE];
     for(i=0;i<n;i++)
         R[i].key=a[i];

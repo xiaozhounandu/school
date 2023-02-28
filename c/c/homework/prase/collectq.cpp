@@ -92,6 +92,7 @@ int main(){
 
 Seqlist L;
     init(L);
+    listInsert(L,1,2);
     return 0;
 
 }

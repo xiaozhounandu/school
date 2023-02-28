@@ -4,8 +4,8 @@ import user.UserInfo;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
+    import javax.servlet.http.HttpServletRequest;
+    import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 
@@ -29,6 +29,7 @@ public class PassServlet extends HttpServlet {
         String pwd = request.getParameter("pwd");
         String age = request.getParameter("age");
         String email = request.getParameter("email");
+
         // 创建封装用户信息的JavaBean对象
         UserInfo user = new UserInfo();
         user.setUserName(name);
@@ -39,6 +40,7 @@ public class PassServlet extends HttpServlet {
 
         // 将user对象添加到request对象中
         request.setAttribute("User", user);
+
         // 将请求转发到logininfo.jsp页面
         request.getRequestDispatcher("logininfo.jsp").forward(request, response);
 

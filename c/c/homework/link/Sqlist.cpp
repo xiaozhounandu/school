@@ -70,7 +70,7 @@ int DelElem(SqList &L,int i)
     L.length--;			//线性表长度减1
     return 1;
 }
-//删除
+//
 void DispList(SqList L)
 {  int i;
     for (i=0;i<L.length;i++)

@@ -1,4 +1,4 @@
-package utilq;
+
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @ClassName huiwen
  * @Description
  * @Author xiaozhounandu
- * @Date 2022-11-09-20-43
+ * @Date
  */
 
 
@@ -31,14 +31,14 @@ public class huiwen {
         return true;
     }
 
-    public static boolean recIsLoop(String str) {
-        if (str.length() < 2) {
-            return true;
-        }
-        if (str.charAt(0) == str.charAt(str.length() - 1)) {
-            return recIsLoop(str.substring(1, str.length() - 1));
-        }
-        return false;
-    }
+//    public static boolean recIsLoop(String str) {
+//        if (str.length() < 2) {
+//            return true;
+//        }
+//        if (str.charAt(0) == str.charAt(str.length() - 1)) {
+//            return recIsLoop(str.substring(1, str.length() - 1));
+//        }
+//        return false;
+//    }
 }
 

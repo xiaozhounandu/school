@@ -59,8 +59,8 @@ void MergeSort(RecType R[],int n){
 
 int main(){
     int i,k,n=10;
-    //KeyType a[]={18,2,20,34,12,32,6,16,5,8};
-    KeyType a[]={75,87,68,92,88,61,77,96,80,72};
+    KeyType a[]={18,2,20,34,12,32,6,16,5,8};
+  //  KeyType a[]={75,87,68,92,88,61,77,96,80,72};
     RecType R[MAXE];
     for(i=0;i<n;i++)
         R[i].key=a[i];
