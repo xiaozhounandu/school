@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xiaozhounandu:war">
+    <output-path>$PROJECT_DIR$/web/xiaozhounandu/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>xiaozhounandu</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="xiaozhounandu.war">
+      <element id="artifact" artifact-name="xiaozhounandu:war exploded" />
+    </root>
+  </artifact>
+</component>
