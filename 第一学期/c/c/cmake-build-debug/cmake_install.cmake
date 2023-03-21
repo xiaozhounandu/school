@@ -1,4 +1,4 @@
-# Install script for directory: /Users/weizhijie/Desktop/Java-code/school/c/c
+# Install script for directory: /Users/weizhijie/Desktop/Java-code/school/第一学期/c/c
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/weizhijie/Desktop/Java-code/school/c/c/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,0 +1,1485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="c"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="q">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/q" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 q"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="q/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/q" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 q/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="w">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/w" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 w"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="w/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/w" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 w/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="e">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/e" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 e"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="e/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/e" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 e/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="r">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/r" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 r"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="r/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/r" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 r/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Queue">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Queue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 Queue"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Queue/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Queue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 Queue/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Linkqueue">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Linkqueue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 Linkqueue"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Linkqueue/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Linkqueue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 Linkqueue/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="newQueue">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/newQueue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 newQueue"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="newQueue/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/newQueue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 newQueue/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="slink">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/slink" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 slink"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="slink/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/slink" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 slink/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sqlist">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/sqlist" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 sqlist"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sqlist/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/sqlist" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 sqlist/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mainx">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/mainx" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 mainx"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mainx/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/mainx" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 mainx/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="L">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/L" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 L"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="L/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/L" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 L/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mainx1">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/mainx1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 mainx1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mainx1/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/mainx1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 mainx1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="coll">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/coll" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 coll"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="coll/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/coll" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 coll/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sort">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/sort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 sort"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sort/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/sort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 sort/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shell">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/shell" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 shell"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shell/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/shell" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 shell/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dump">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/dump" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 dump"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dump/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/dump" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 dump/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Merge">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Merge" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 Merge"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Merge/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Merge" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 Merge/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="newMerge">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/newMerge" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 newMerge"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="newMerge/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/newMerge" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 newMerge/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="newHeap">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/newHeap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 newHeap"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="newHeap/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/newHeap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 newHeap/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="newShellSort">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/newShellSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 newShellSort"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="newShellSort/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/newShellSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 newShellSort/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="prim">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/prim" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 prim"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="prim/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/prim" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 prim/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="floyd">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/floyd" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 floyd"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="floyd/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/floyd" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 floyd/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Dijkstra">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Dijkstra" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 Dijkstra"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Dijkstra/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Dijkstra" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 Dijkstra/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kruskal">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Kruskal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 Kruskal"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kruskal/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Kruskal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 Kruskal/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/data" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 data"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/data" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 data/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="score">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/score" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 score"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="score/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/score" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 score/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="String">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/String" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 String"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="String/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/String" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 String/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SqString">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/SqString" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 SqString"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SqString/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/SqString" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 SqString/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="newS">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/newS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 newS"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="newS/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/newS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 newS/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="newTree">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/newTree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 newTree"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="newTree/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/newTree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 newTree/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="newhafuman">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/newhafuman" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 newhafuman"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="newhafuman/fast">
+				<Option output="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/newhafuman" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 newhafuman/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/Dijkstra1.cpp">
+			<Option target="Dijkstra"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/Queue/LinkQueue.cpp">
+			<Option target="Linkqueue"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/Queue/Queue.cpp">
+			<Option target="Queue"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/Queue/newQueue.cpp">
+			<Option target="newQueue"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/SqString/SqString.cpp">
+			<Option target="SqString"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/SqString/newSqString.cpp">
+			<Option target="newS"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/Test/auto_incr.cpp">
+			<Option target="r"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/Test/insert.cpp">
+			<Option target="w"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/Test/move.cpp">
+			<Option target="e"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/Test/yuansu.cpp">
+			<Option target="q"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/graph/Floyd.cpp">
+			<Option target="floyd"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/graph/Kruskal.cpp">
+			<Option target="Kruskal"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/graph/Prim.cpp">
+			<Option target="prim"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/his/String.cpp">
+			<Option target="String"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/his/data.cpp">
+			<Option target="data"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/his/score.cpp">
+			<Option target="score"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/link/Slinknode1.cpp">
+			<Option target="slink"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/link/Sqlist.cpp">
+			<Option target="sqlist"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/link/mainx.cpp">
+			<Option target="mainx"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/prase/collectq.cpp">
+			<Option target="coll"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/sort/HeapSort.cpp">
+			<Option target="dump"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/sort/MergeSort.cpp">
+			<Option target="Merge"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/sort/Shellsort.cpp">
+			<Option target="shell"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/sort/SortPlus/HeapSort.cpp">
+			<Option target="newHeap"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/sort/SortPlus/MergeSort.cpp">
+			<Option target="newMerge"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/sort/SortPlus/ShellSort.cpp">
+			<Option target="newShellSort"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/sort/insertSort.cpp">
+			<Option target="sort"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/stack/LinkStack.cpp">
+			<Option target="L"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/stack/Stack.cpp">
+			<Option target="c"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/stack/testLink.cpp">
+			<Option target="mainx1"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/tree/haFumanTree.cpp">
+			<Option target="newhafuman"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/homework/tree/newTree.cpp">
+			<Option target="newTree"/>
+		</Unit>
+		<Unit filename="/Users/weizhijie/Desktop/Java-code/school/第一学期/c/c/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
